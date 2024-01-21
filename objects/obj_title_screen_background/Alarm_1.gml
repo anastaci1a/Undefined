@@ -1,0 +1,1 @@
+if (!background_text_received) display_loading = true;
