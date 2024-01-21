@@ -42,4 +42,4 @@ Please star and watch for updates as Undefined progresses in a quest to redefine
 
 ---
 
-For more information, suggestions, or inquiries, feel free to open an issue.
+For suggestions or inquiries, feel free to open an issue.
