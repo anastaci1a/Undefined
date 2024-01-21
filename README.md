@@ -13,7 +13,7 @@ Dive into an RPG where tradition meets the bleeding edge, and the limits are onl
 
 ## AI Integration Techniques
 
-Undefined is brought to life through several advanced AI systems and custom-built solutions:
+Undefined is brought to life through several AI systems and custom-built solutions:
 
 ### 1. OpenAI API
 
