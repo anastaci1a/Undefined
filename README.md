@@ -1,5 +1,5 @@
 # Undefined - An AI-Generated RPG
-![Screenshot 2024-01-21 032716](https://github.com/anastaci1a/Undefined/assets/48846277/2f1539cd-9adf-45ee-9f47-f9bfe4f3573e)
+![title-screen](https://github.com/anastaci1a/Undefined/assets/48846277/2f1539cd-9adf-45ee-9f47-f9bfe4f3573e)
 
 > **NOTE:** This project is very much in the early stages. What follows below is the ultimate vision for the game.
 
