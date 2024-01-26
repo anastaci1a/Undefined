@@ -6,6 +6,6 @@
   "isDnD": false,
   "parent": {
     "name": "Global Static Getters",
-    "path": "folders/(#) Packages/(1) Scribble/(System - don't call these functions)/Global Static Getters.yy",
+    "path": "folders/(#) Packages/(2) Scribble/(System - don't call these functions)/Global Static Getters.yy",
   },
 }

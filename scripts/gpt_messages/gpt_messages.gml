@@ -1,5 +1,4 @@
-/// @description Returns all previous messages in agent.
-/// @return Array<Struct> (Messages array)
+/// @description Returns all previous messages in agent
 
 function gpt_messages(_id_of_instance) {
 	if (instance_exists(_id_of_instance)) {

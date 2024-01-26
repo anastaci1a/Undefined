@@ -1,5 +1,4 @@
 /// @description Prompts a gpt with multiple messages, first message will be prompted immediately (if gpt is not currently being asked) and the remaining will be asked as subsequent followup messages
-/// @return undefined
 
 /*
 

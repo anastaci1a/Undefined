@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "dalle_parse_check",
+  "name": "dalle_parse_check_instant",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

@@ -1,5 +1,4 @@
-/// @description [use gpt_ask] Prompts gpt with single message and adds to future prompts if gpt is being prompted.
-/// @return undefined
+/// @description [use gpt_ask] Prompts gpt with single message and adds to future prompts if gpt is being prompted
 
 function _gpt_ask_single(_id_of_instance, _role, _content, _response_format = "text") {
 	if (instance_exists(_id_of_instance)) {

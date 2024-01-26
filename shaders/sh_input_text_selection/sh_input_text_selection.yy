@@ -4,7 +4,7 @@
   "name": "sh_input_text_selection",
   "parent": {
     "name": "Shaders",
-    "path": "folders/(#) Packages/(2) Text Inputs/Shaders.yy",
+    "path": "folders/(#) Packages/(3) Text Inputs/Shaders.yy",
   },
   "type": 1,
 }

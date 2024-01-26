@@ -6,6 +6,6 @@
   "isDnD": false,
   "parent": {
     "name": "Superfonts",
-    "path": "folders/(#) Packages/(1) Scribble/Superfonts.yy",
+    "path": "folders/(#) Packages/(2) Scribble/Superfonts.yy",
   },
 }

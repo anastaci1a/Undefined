@@ -1,5 +1,4 @@
-/// @description Creates a GPT agent.
-/// @return Id.Instance<gpt_agent> (Instance ID)
+/// @description Creates a GPT agent (returns ID)
 
 function gpt_create(_agent_name, _model = OpenAI_gpt_4_128k, _max_tokens = 4096, _temperature = 1) {
 	var _agent = instance_create_layer(0, 0, layer, gpt_agent);

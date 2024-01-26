@@ -7,6 +7,7 @@ download_id = 0;
 image_path = "";
 image_sprite = undefined;
 image_parsed = false;
+image_parsed_ = false;
 
 // request vars
 model = "dall-e-3";

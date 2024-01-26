@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "(3) Perlin Noise",
-    "path": "folders/(#) Packages/(3) Perlin Noise.yy",
+    "name": "Perlin Noise",
+    "path": "folders/(#) Packages/(z) Utility/Perlin Noise.yy",
   },
 }

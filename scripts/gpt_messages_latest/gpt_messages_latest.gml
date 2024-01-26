@@ -1,5 +1,4 @@
-/// @description Returns the latest message in agent.
-/// @return Struct
+/// @description Returns the latest message in agent
 
 function gpt_messages_latest(_id_of_instance) {
 	if (instance_exists(_id_of_instance)) {

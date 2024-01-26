@@ -41,3 +41,7 @@ if (!error_retry) {
 
 // Clean up the headers map
 ds_map_destroy(_headers);
+
+// Reset message_received vars
+message_received = false;
+message_received_ = false;

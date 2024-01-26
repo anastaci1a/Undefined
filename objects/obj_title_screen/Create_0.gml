@@ -80,7 +80,7 @@ menu = {
 								"Space Roguelike",
 								"The year is 2306, and much of human life has fled the \"Sol System\", the birthplace of humanity. Humanity is now a wandering species, exploring different systems throughout the galaxy. One of which is the Kepler system, containing Kepler-22b. Humans in the 2200s went on a thousand year journey to this system, traveling at half the speed of light in several vessels - known as the Lazarus missions. [...]",
 								"[...]",
-								"Yvonne is a rogue pilot stole a ship from a Starlight development facility, and scavenges/repairs tech at abandoned outposts and stations, either to sell or to use for her own purposes. The nature of her work puts her in the crossfire of conflict often.",
+								"Yvonne is a rogue pilot who stole a ship from a Starlight development facility, and scavenges/repairs tech at abandoned outposts and stations, either to sell or to use for her own purposes. The nature of her work puts her in the crossfire of conflict often.",
 								"[...]"
 								//"[...]", "[...]", "[...]", "[...]", "[...]"
 							]
@@ -213,4 +213,4 @@ start_effect_blur_x_distance = 0;
 
 game_start_room = undefined;
 room_new_game = rm_1_character_customization;
-room_saved = rm__template;
+room_saved = rm__test;

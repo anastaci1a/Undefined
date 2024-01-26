@@ -1,5 +1,4 @@
-// @description Add to agent messages array (_content can be an array).
-// @return undefined
+// @description Add to agent messages array (_content can be an array)
 
 function gpt_messages_add(_id_of_instance, _role, _content) {
 	if (instance_exists(_id_of_instance)) {

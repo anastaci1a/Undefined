@@ -1,4 +1,10 @@
 //show_debug_message(fps);
+if (keyboard_check_pressed(vk_right)) {
+	room_goto_next();
+}
+if (keyboard_check_pressed(vk_left)) {
+	room_goto_previous();
+}
 
 
 // glow exit (escape key) effect
@@ -36,11 +42,4 @@ if (room == rm_0_title_screen && !instance_exists(obj_title_screen)) {
 	with (obj_title_screen) {
 		event_user(1);
 	}
-}
-
-if (keyboard_check_pressed(vk_right)) {
-	room_goto_next();
-}
-if (keyboard_check_pressed(vk_left)) {
-	room_goto_previous();
 }

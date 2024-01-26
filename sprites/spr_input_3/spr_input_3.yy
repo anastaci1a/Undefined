@@ -26,7 +26,7 @@
   "origin": 9,
   "parent": {
     "name": "Examples",
-    "path": "folders/(#) Packages/(2) Text Inputs/Sprites/Examples.yy",
+    "path": "folders/(#) Packages/(3) Text Inputs/Sprites/Examples.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

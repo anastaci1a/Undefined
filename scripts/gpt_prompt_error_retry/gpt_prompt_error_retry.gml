@@ -1,5 +1,4 @@
-/// @description Prompts agent for response if error (enter true for second argumemnt for an increasing delay between requests).
-/// @return undefined
+/// @description Prompts agent for response if error (enter true for second argumemnt for an increasing delay between requests)
 
 function gpt_prompt_error_retry(_id_of_instance, _response_format /* "text" or "json_object" */, _retry_max_times, _request_delay = false, _request_initial_delay = 30, _request_delay_multiplier = 1.5) {
 	if (instance_exists(_id_of_instance)) {

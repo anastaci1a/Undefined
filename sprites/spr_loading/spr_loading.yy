@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "(z) Misc",
-    "path": "folders/Art/GUI/(z) Misc.yy",
+    "path": "folders/Art/(0) GUI/(z) Misc.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

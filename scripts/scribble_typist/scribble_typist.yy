@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "(1) Scribble",
-    "path": "folders/(#) Packages/(1) Scribble.yy",
+    "name": "(2) Scribble",
+    "path": "folders/(#) Packages/(2) Scribble.yy",
   },
 }

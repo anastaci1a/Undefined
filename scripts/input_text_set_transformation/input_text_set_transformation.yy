@@ -6,6 +6,6 @@
   "isDnD": false,
   "parent": {
     "name": "Text Inputs",
-    "path": "folders/(#) Packages/(2) Text Inputs/Scripts/Text Inputs.yy",
+    "path": "folders/(#) Packages/(3) Text Inputs/Scripts/Text Inputs.yy",
   },
 }

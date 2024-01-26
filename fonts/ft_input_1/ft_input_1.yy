@@ -248,7 +248,7 @@
   "maintainGms1Font": false,
   "parent": {
     "name": "Example",
-    "path": "folders/(#) Packages/(2) Text Inputs/Fonts/Example.yy",
+    "path": "folders/(#) Packages/(3) Text Inputs/Fonts/Example.yy",
   },
   "pointRounding": 0,
   "ranges": [

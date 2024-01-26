@@ -1,5 +1,4 @@
-/// @description Checks if error has occurred in request.
-/// @return Real
+/// @description Checks if error has occurred in request and returns integer status
 
 /*
 	0: no error

@@ -6,6 +6,6 @@
   "isDnD": false,
   "parent": {
     "name": "Quick Functions",
-    "path": "folders/(#) Packages/(1) Scribble/Quick Functions.yy",
+    "path": "folders/(#) Packages/(2) Scribble/Quick Functions.yy",
   },
 }

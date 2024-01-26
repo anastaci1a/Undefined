@@ -20,3 +20,7 @@ request_id = http_request(OpenAI_dalle_url, "POST", _headers, _body);
 
 // Clean up the headers map
 ds_map_destroy(_headers);
+
+// Reset image_parsed vars
+image_parsed = false;
+image_parsed_ = false;

@@ -1,5 +1,4 @@
-// @description Set agent messages array.
-// @return undefined
+// @description Set agent messages array
 
 function gpt_messages_set(_id_of_instance, _context) {
 	if (instance_exists(_id_of_instance)) {

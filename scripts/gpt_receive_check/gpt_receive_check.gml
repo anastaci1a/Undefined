@@ -1,5 +1,4 @@
-/// @description Checks if message has been received from agent.
-/// @return Bool
+/// @description Checks if message has been received from agent
 
 function gpt_receive_check(_id_of_instance) {
 	if (instance_exists(_id_of_instance)) {

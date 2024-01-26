@@ -31,5 +31,6 @@ if (ds_map_find_value(async_load, "id") == download_id) {
 		image_path = ds_map_find_value(async_load, "result");
 		image_sprite = sprite_add(image_path, 1, false, false, 0, 0);
 		image_parsed = true;
+		image_parsed_ = true;
 	}
 }

@@ -1,5 +1,4 @@
-/// @description Returns a string of the real-time status of the current "error retry"-ing prompt.
-/// @return String
+/// @description Returns a string of the real-time status of the current "error retry"-ing prompt
 
 function gpt_error_retry_status(_id_of_instance) {
 	var _r = "";

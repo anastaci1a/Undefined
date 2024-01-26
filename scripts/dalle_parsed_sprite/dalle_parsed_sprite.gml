@@ -1,4 +1,4 @@
-/// @description Returns latest generated image as sprite.
+/// @description Returns latest generated image as sprite
 /// @return Resource
 
 function dalle_parsed_sprite(_id_of_instance) {

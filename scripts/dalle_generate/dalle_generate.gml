@@ -1,5 +1,4 @@
-/// @description Prompts DALL·E to generate image.
-/// @return undefined
+/// @description Prompts DALL·E to generate image
 
 function dalle_generate(_id_of_instance, _prompt, _style, _size, _model = "dall-e-3") {
 	if (instance_exists(_id_of_instance)) {

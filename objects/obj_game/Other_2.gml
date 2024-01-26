@@ -1,1 +1,2 @@
-instance_create_layer(0, 0, "GUI_Back", obj_title_screen);
+global.aicore = undefined;
+global.settings = undefined;

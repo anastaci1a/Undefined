@@ -1,5 +1,4 @@
-/// @description Checks if message has been received from agent, returns true for one frame once received.
-/// @return Bool
+/// @description Checks if message has been received from agent, returns true for one frame once received
 
 function gpt_receive_check_instant(_id_of_instance) {
 	if (instance_exists(_id_of_instance)) {

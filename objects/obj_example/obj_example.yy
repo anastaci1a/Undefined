@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "(2) Text Inputs",
-    "path": "folders/(#) Packages/(2) Text Inputs.yy",
+    "name": "(3) Text Inputs",
+    "path": "folders/(#) Packages/(3) Text Inputs.yy",
   },
   "parentObjectId": null,
   "persistent": false,

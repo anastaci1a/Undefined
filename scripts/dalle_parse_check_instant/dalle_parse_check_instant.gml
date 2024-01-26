@@ -1,12 +1,11 @@
-/// @description Checks if image has been received from DALL·E.
-/// @return Bool
+/// @description Returns true for one frame if image has been received from DALL·E
 
-function dalle_parse_check(_id_of_instance) {
+function dalle_parse_check_instant(_id_of_instance) {
 	if (instance_exists(_id_of_instance)) {
 		var _image_parsed = false;
 		with (_id_of_instance) {
 			_image_parsed = image_parsed;
-			image_parsed = false;
+			image_parsed_ = false;
 		}
 		return _image_parsed;
 	} else {

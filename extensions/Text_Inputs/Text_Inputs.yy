@@ -73,8 +73,8 @@
   "optionsFile": "options.json",
   "packageId": "com.mytino.textinputs",
   "parent": {
-    "name": "(2) Text Inputs",
-    "path": "folders/(#) Packages/(2) Text Inputs.yy",
+    "name": "(3) Text Inputs",
+    "path": "folders/(#) Packages/(3) Text Inputs.yy",
   },
   "productId": "F3D00DAD3DDB83EFFDD568E8093FC7AA",
   "sourcedir": "",

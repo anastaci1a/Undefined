@@ -1,5 +1,4 @@
-/// @description Prompts agent for response.
-/// @return undefined
+/// @description Prompts agent for response
 
 function gpt_prompt(_id_of_instance, _response_format = "text" /* "text" or "json_object" */) {
 	if (instance_exists(_id_of_instance)) {

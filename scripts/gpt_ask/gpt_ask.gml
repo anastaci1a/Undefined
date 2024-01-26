@@ -1,5 +1,4 @@
-/// @description Prompts a gpt with message(s) - will ask subsequent messages if gpt has already being prompted or _content is an array.
-/// @return undefined
+/// @description Prompts a gpt with message(s) - will ask subsequent messages if gpt has already being prompted or _content is an array
 
 function gpt_ask(_id_of_instance, _role, _content, _response_format = "text"  /* "text" or "json_object" */) {
 	if (instance_exists(_id_of_instance)) {

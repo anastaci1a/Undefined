@@ -55,7 +55,7 @@
   "origin": 6,
   "parent": {
     "name": "(0) Title Screen",
-    "path": "folders/Art/GUI/(0) Title Screen.yy",
+    "path": "folders/Art/(0) GUI/(0) Title Screen.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
